@@ -3,7 +3,7 @@
 ## 📌 Contexto
 Uma empresa está investindo mensalmente em plataformas de publicidade online, como YouTube, Facebook e jornais (newspaper), para a prospecção de leads (pessoas interessadas em seus produtos).
 
-Para avaliar o desempenho desses investimentos, a empresa registra os gastos com publicidade e os retornos de vendas gerados. O objetivo deste projeto é:
+Para avaliar o desempenho desses investimentos, a empresa registra os gastos com publicidade e os retornos de vendas gerados. O objetivo deste projeto é:  
 ✅ Analisar a relação entre os investimentos e as vendas
 ✅ Construir um modelo preditivo para estimar o retorno de vendas com base nos investimentos feitos
 
