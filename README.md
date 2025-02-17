@@ -1,4 +1,4 @@
-📊 Construindo um Modelo de Regressão para Marketing
+# 📊 Construindo um Modelo de Regressão para Marketing
 
 📌 Contexto
 Uma empresa está investindo mensalmente em plataformas de publicidade online, como YouTube, Facebook e jornais (newspaper), para a prospecção de leads (pessoas interessadas em seus produtos).
