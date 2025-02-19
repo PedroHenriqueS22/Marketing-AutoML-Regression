@@ -41,4 +41,4 @@ Avaliação de Modelos: mean_squared_error, r2_score
 Divisão de Dados: train_test_split  
 
 ## 📬 Contato
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato! 😊
+Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
